@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ssprotect>
+	<base_info>
+		<app>Virbox Protector 3 Trial</app>
+		<version>3.3.2.20486</version>
+	</base_info>
+	<file>
+		<path>protected/pg64#HvHf</path>
+	</file>
+	<option>
+		<import>0</import>
+		<zip>1</zip>
+		<memory_check>0</memory_check>
+		<strip_symtab>1</strip_symtab>
+		<anti_debugging>0</anti_debugging>
+	</option>
+	<sign />
+	<function>
+		<SENSENODEFUNC1 type="function" name="SENSE00195ff0">
+			<flags>0</flags>
+		</SENSENODEFUNC1>
+	</function>
+</ssprotect>
